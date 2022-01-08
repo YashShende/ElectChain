@@ -1,7 +1,7 @@
 # ElectChain
 ElectChain is a bloackchain based voting system developed using 
 
-Web Technology : php,html,css,javascrip,Bootstrap
+- Web Technology : php,html,css,javascrip,Bootstrap
 - Smart contract : Solidity , Remix IDE ,Web3
 - Database : Mysql
 - Wallet : Metamask
